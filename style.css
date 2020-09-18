@@ -1,4 +1,11 @@
+html {
+  background: transparent url(assets/img/bg-top.png) center top no-repeat;
+  background-size: 1200px;
+  padding-top: 200px;
+}
 body {
+  background: transparent url(assets/img/bg-bottom.png) center bottom no-repeat;
+  background-size: 1200px;
   padding: 30px 10%;
   font-family: 'Nunito', sans-serif;
 }
@@ -7,8 +14,14 @@ h1, h2 {
   font-family: 'Libre Baskerville', serif;
 }
 
+figure {
+  max-width: 300px;
+  float: left;
+  background: lightblue;
+  padding: 20px;
+}
 img {
-  margin: 20px 0;
+  margin: 0 0 20px 0;
   max-width: 100%;
   border-radius: 10px;
 }
@@ -19,4 +32,8 @@ aside {
   margin: 0 20px;
   padding: 20px;
   background: lightblue;
+}
+
+footer {
+  margin-top: 140px;
 }
