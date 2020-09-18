@@ -1,10 +1,10 @@
 html {
-  background: transparent url(assets/img/bg-top.png) center top no-repeat;
+  background: transparent url(assets/img/bg-top.png?1) center top no-repeat;
   background-size: 1200px;
   padding-top: 200px;
 }
 body {
-  background: transparent url(assets/img/bg-bottom.png) center bottom no-repeat;
+  background: transparent url(assets/img/bg-bottom.png?1) center bottom no-repeat;
   background-size: 1200px;
   padding: 30px 10%;
   font-family: 'Nunito', sans-serif;
