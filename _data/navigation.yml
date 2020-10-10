@@ -1,0 +1,16 @@
+- name: CO2-Monitor
+  link: /co2-monitor-ampel/
+  new_window: false
+  highlight: false
+- name: Preise
+  link: /preise/
+  new_window: false
+  highlight: false
+- name: Blog
+  link: /blog/
+  new_window: false
+  highlight: false
+- name: Bestellen
+  link: /bestellen/
+  new_window: false
+  highlight: true

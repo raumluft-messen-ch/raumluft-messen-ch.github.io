@@ -1,0 +1,12 @@
+- links:
+  - name: CO2-Monitor
+    link: /co2-monitor-ampel/
+  - name: Preise
+    link: /preise/
+  - name: Blog
+    link: /blog/
+  - name: Bestellen
+    link: /bestellen/
+  - name: RSS
+    link: /feed.xml
+    new_window: false
