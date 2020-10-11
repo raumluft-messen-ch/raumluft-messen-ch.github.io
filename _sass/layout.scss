@@ -71,6 +71,10 @@ header {
 
 section {
 	padding: 100px 0;
+
+	&.hero {
+		padding-bottom: 10px;
+	}
 }
 
 section + section {
@@ -123,7 +127,7 @@ blockquote:before {
 	width: 150px;
 	height: 150px;
 	overflow: hidden;
-	margin: 25px auto 0 auto;
+	margin: 10px auto 0 auto;
 	position: relative;
 	border-radius: 200px;
 
@@ -134,7 +138,7 @@ blockquote:before {
 		top: -1000%;
 		bottom: -1000%;
 		margin: auto;
-		width: 300px;
+		width: 150px;
 	}
 }
 
