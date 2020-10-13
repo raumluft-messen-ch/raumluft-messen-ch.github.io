@@ -1,12 +1,20 @@
 - links:
   - name: CO2-Monitor
     link: /co2-monitor-ampel/
-  - name: Preise
-    link: /preise/
-  - name: Blog
-    link: /blog/
+    new_window: false
+    highlight: false
+  - name: News
+    link: /news/
+    new_window: false
+    highlight: false
+  - name: Kontakt
+    link: /kontakt/
+    new_window: false
+    highlight: false
   - name: Bestellen
     link: /bestellen/
+    new_window: false
+    highlight: true
   - name: RSS
     link: /feed.xml
     new_window: false

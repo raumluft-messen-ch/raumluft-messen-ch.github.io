@@ -13,11 +13,10 @@ layout: page
 		<p class="subtext">{{ blog.description }}</p>
 	{% endif %}
 
-	<div class="center-text">
-		<span class="blog-filter cross"><a href="{{ site.baseurl }}/blog/">{{ page.title | capitalize }}</a></span>
+	<div class="center-text margined-bottom">
+		<h2>{{ page.title | capitalize }}</h2>
 	</div>
 
-	<ul class="blog-posts">
-		{% include list-posts.html posts=page.posts %}
-	</ul>
+	{% include list-posts.html posts=page.posts %}
+
 </div>

@@ -1,10 +1,10 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: Raumluft Messen
+url: "https://www.raumluft-messen.ch"
 baseurl:
-google_analytics_key:
+google_analytics_key: 
 google_maps_javascript_api_key:
 disqus_shortname:
 
