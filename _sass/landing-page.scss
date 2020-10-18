@@ -65,3 +65,32 @@
 		flex-direction: row-reverse;
 	}
 }
+
+.ribboned {
+	position: relative;
+	overflow: hidden;
+}
+.ribbon {
+	background-color: crimson;
+	opacity: 0.9;
+	overflow: hidden;
+	white-space: nowrap;
+	position: absolute;
+	right: -66px;
+	top: 30px;
+	transform: rotate(45deg);
+	box-shadow: 0 0 10px #888;
+
+	a {
+		border: 1px solid #faa;
+		color: #fff;
+		display: block;
+		font: bold 100% 'Helvetica Neue', Helvetica, Arial, sans-serif;
+		margin: 1px 0;
+		padding: 10px 50px;
+		text-align: center;
+		text-decoration: none;
+		/* for creating shadow */
+		text-shadow: 0 0 5px #444;
+	}
+}
