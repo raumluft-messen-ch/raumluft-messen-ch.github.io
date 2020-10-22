@@ -2,10 +2,8 @@
 date: 2020-09-01
 title: TU Berlin hält Einsatz von CO<sub>2</sub>-Ampeln für sinnvoll
 categories:
-  - Co2Ampel
+  - CO2-Ampel
   - Aerosole
-
-author_staff_member: diana
 ---
 Prof. Dr.-Ing. Martin Kriegel ist Leiter des Hermann-Rietschel-Instituts der TU Berlin. Er forscht unter anderem an der Ausbreitung von Aerosolen. Auf der Website der TU Berlin hat er und sein Team einen FAQ Bereich zu Fragen rund um Aerosole bereit gestellt.
 

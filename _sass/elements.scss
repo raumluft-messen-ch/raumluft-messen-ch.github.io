@@ -41,9 +41,11 @@ h2 {
 }
 
 h3 {
-	margin: 20px 0 10px 0;
-}
+	font-weight: 300;
+	font-size: 1.6em;
+	margin: 0 0 30px 0;
 
+}
 
 p, address, li {
 	font-size: 1.38em;
@@ -52,6 +54,11 @@ p, address, li {
 	font-weight: 300;
 	line-height: 1.4em;
 }
+
 li {
 	line-height: 1em;
+}
+
+blockquote strong {
+	font-weight: 400;
 }

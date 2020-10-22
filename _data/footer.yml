@@ -1,20 +1,14 @@
 - links:
-  - name: CO2-Monitor
+  - name: Der CO2-Monitor
     link: /co2-monitor-ampel/
     new_window: false
     highlight: false
-  - name: News
+  - name: News & Infos zum Thema Raumluft
     link: /news/
     new_window: false
     highlight: false
-  - name: Kontakt
+  - name: Kontakt & Bestellen
     link: /kontakt/
     new_window: false
-    highlight: false
-  - name: Bestellen
-    link: /bestellen/
-    new_window: false
     highlight: true
-  - name: RSS
-    link: /feed.xml
-    new_window: false
+

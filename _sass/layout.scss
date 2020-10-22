@@ -6,6 +6,7 @@
 
 .text-container {
 	max-width: 750px;
+	margin-bottom: 30px;
 }
 
 .container {
@@ -35,8 +36,8 @@ header {
 	}
 
 	.company-name {
-		font-size: 1.7em;
-		line-height: 0;
+		font-size: 1em;
+		line-height: 1;
 
 		a {
 			display: inline-block;
@@ -70,7 +71,7 @@ header {
 }
 
 section {
-	padding: 100px 0;
+
 
 	&.hero {
 		padding-bottom: 10px;
@@ -88,7 +89,7 @@ section + section {
 
 
 .cta {
-	margin: 60px 0;
+	margin: 0 0 60px 0;
 }
 
 .page h2 {

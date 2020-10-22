@@ -15,9 +15,12 @@
 		display: inline-block;
 
 		@media #{$tablet} {
-			max-width: 150px;
+			display: block;
+			width: 100%;
 		}
+
 		a {
+			white-space: nowrap;
 
 			&:hover {
 				text-decoration: none;
@@ -69,13 +72,15 @@
 }
 
 footer {
-	padding: 50px 0 50px 0;
+	padding: 50px 0 30px 0;
 	font-size: 1.1em;
 	position: relative;
 	background: #2b2b40;
 	color: #fff;
 
 	.copyright {
+		color: dimgrey;
+
 		font-size: .8em;
 		margin: 0 auto;
 
@@ -83,11 +88,11 @@ footer {
 			text-align: center;
 		}
 
-	}
+		a {
+			color: dimgrey;
+			text-decoration: none;
+		}
 
-	&,
-	a {
-		color: #999;
 	}
 
 	h2 {
@@ -103,6 +108,7 @@ footer {
 	}
 
 	a {
+		color: #999;
 		text-decoration: none;
 
 		&:hover {

@@ -10,7 +10,8 @@
 
 .blog-post {
 	video {
-		max-width: 100%;
+		width: 100%;
+		margin-bottom: 30px;
 	}
 
 	.author {
@@ -92,6 +93,7 @@
 
 	.post-content {
 		padding-bottom: 50px;
+
 		.button {
 			margin: 30px 0;
 		}
@@ -104,12 +106,13 @@
 
 .blog-filter {
 	text-align: center;
+
 	a {
 		background: #eee;
-    padding: 3px 5px;
-    font-size: .8em;
-    border-radius: 5px;
-    color: #888;
+		padding: 3px 5px;
+		font-size: .8em;
+		border-radius: 5px;
+		color: #888;
 		transition: .2s ease-in-out;
 
 		&:hover {

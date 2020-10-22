@@ -3,13 +3,13 @@ date: 2020-10-01
 title: Video über Verbreitung von Aerosolen
 categories:
   - Aerosole
-  - Video
   - Lüften
-author_staff_member: diana
+  - Schule
+  - Wissenschaft
 ---
 Warum richtiges Lüften so wichtig ist, erklärt dieses Video sehr anschaulich:
 
-<video controls="true" autoplay="true" muted title="Ausbreitung von Aerosolen im Klassenzimmer">
+<video controls="true" autoplay="true" muted title="Ausbreitung von Aerosolen im Klassenzimmer" poster="{{ site.baseurl }}/images/co2-monitor-im-buero.png">
 	<source src="//www.static.tu.berlin/fileadmin/www/10000000/Ueber_die_TU_Berlin/Profil/Pressemitteilungen/tu_berlin_hri_klassenzimmer_1_quelle.mp4" type="video/mp4">
 </video>
 

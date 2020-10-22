@@ -2,8 +2,7 @@
 date: 2020-10-16
 title: Welche CO2 Werte sind gesund?
 categories:
-  - Wissenschaft
-author_staff_member: Diana
+    - Wissenschaft
 ---
 Negative Effekte wurden zum Teil schon ab Konzentrationen von 1000 ppm CO2 beobachtet.
 

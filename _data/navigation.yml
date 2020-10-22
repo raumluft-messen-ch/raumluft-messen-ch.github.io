@@ -1,4 +1,4 @@
-- name: CO2-Monitor
+- name: Der CO2-Monitor
   link: /co2-monitor-ampel/
   new_window: false
   highlight: false

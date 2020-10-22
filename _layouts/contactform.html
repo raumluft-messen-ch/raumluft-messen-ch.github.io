@@ -9,6 +9,7 @@
 		{% feed_meta %}
 
 		<link rel="stylesheet" href="{{ site.baseurl }}/css/screen.css">
+		<link rel="stylesheet" href="{{ site.baseurl }}/contactform/css/fcf.default.css">
 		<link rel="icon" type="image/png" href="{{ site.baseurl }}/favicon.png">
 
 		{% if jekyll.environment == 'production' and site.google_analytics_key != '' %}
@@ -23,14 +24,27 @@
 	<body>
 		<header>
 			<div class="container">
-				<div class="company-name">
-					<!--CO2-Monitor &shy;von Pilatus Tools-->
-					<a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/pilatus-tools-logo.png" alt="Pilatus Tools Logo" height="45" /></a>
-				</div>
+				<div class="company-name"><a href="{{ site.baseurl }}/"><img src="{{ site.baseurl }}/images/pilatus-tools-logo.png" alt="Pilatus Tools Logo" height="45" /></a></div>
 				{% include navigation.html %}
 			</div>
 		</header>
-		{{ content }}
+
+		<div class="content">
+			<section class="page">
+				<div class="container {% if page.full_width %}max-container{% endif %}">
+					{% if page.heading %}
+					<h2>{{ page.heading }}</h2>
+					{% elsif page.title and page.layout != 'archive' %}
+					<h2>{{ page.title }}</h2>
+					{% endif %}
+					{% if page.description %}
+					<p class="subtext">{{ page.description }}</p>
+					{% endif %}
+					{{ content }}
+				</div>
+			</section>
+		</div>
+
 		<footer>
 			<div class="container">
 				<p class="editor-link"><a href="pilatustools:collections/_data/footer.yml" class="btn"><strong>&#9998;</strong> Edit footer</a></p>

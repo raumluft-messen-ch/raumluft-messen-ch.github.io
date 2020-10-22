@@ -2,9 +2,8 @@
 date: 2020-08-24
 title: Infektionsgefahr durch Aerosole
 categories:
-  - aerosole
-  - corona
-author_staff_member: diana
+  - Aerosole
+  - Corona
 ---
 
 Im August 2020 gab es bei Rosenfluh.ch einen interessanten Artikel über die <strong>Ansteckungsgefahr durch infektiöse Aerosole</strong>. Insgesamt 239 Wissenschaftler aus 32 Ländern wandten sich in einem Positionspapier an die WHO. Sie forderten die WHO auf, ihre Einschätzung zur Übertragung von SARS-CoV2 zu überdenken. Unter den Unterzeichnern waren nicht nur Mediziner und Virologen, sondern auch Epidemiologen und Vertreter technisch physikalischer Disziplinen wie Strömungsdynamik und Aerosolphysik.

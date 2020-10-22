@@ -2,10 +2,9 @@
 date: 2020-10-10
 title: Umweltbundesamt empfiehlt bereits seit 2008 CO<sub>2</sub>-Messgeräte
 categories:
-  - Schulen
+  - Schule
   - Aerosole
   - Politik
-author_staff_member: Diana
 ---
 Das Umweltbundesamt empfiehlt bereits schon seit dem Jahre 2008 CO<sub>2</sub>-Messgeräte für Innenräume, um den CO<sub>2</sub>-Gehalt zu überwachen:
 [Gesundheitliche Bewertung von Kohlendioxid in der Innenraumluft](https://www.umweltbundesamt.de/sites/default/files/medien/pdfs/kohlendioxid_2008.pdf)
