@@ -6,11 +6,7 @@
   link: /news/
   new_window: false
   highlight: false
-- name: Kontakt
+- name: Kontakt & Bestellen
   link: /kontakt/
-  new_window: false
-  highlight: false
-- name: Bestellen
-  link: /bestellen/
   new_window: false
   highlight: true

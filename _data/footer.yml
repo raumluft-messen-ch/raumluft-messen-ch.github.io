@@ -1,4 +1,8 @@
 - links:
+  - name: Richtig Lüften
+    link: /
+    new_window: false
+    highlight: false
   - name: Der CO2-Monitor
     link: /co2-monitor-ampel/
     new_window: false
