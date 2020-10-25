@@ -26,10 +26,13 @@
 	color: $brand-color;
 }
 
-textarea, input, button, select { font-family: inherit; font-size: inherit; }
+textarea, input, button, select {
+	font-family: inherit;
+	font-size: inherit;
+}
 
-input[type=submit] {
-	margin: 20px 0 0 0;
+button[type=submit] {
+	margin: 20px 0;
 }
 
 label, input, textarea {
@@ -40,16 +43,18 @@ label, input, textarea {
 
 textarea {
 	resize: vertical;
-	height: 150px;
+	height: 100px;
 }
 
 label {
-	margin: 20px 0 5px 0;
+	margin: 0 0 10px 0;
 }
 
 input, textarea {
+	margin-bottom: 20px;
 	padding: 10px;
 	font-size: 1em;
+	font-weight: 300;
 }
 
 input, textarea {

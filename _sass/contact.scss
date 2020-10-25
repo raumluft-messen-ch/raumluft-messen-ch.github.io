@@ -5,28 +5,13 @@
 }
 
 .contact-box {
-	@extend %flexbox;
-	@include flex-flow(wrap);
-	max-width: 750px;
-	margin: 0 auto;
+	@media (min-width: 750px) {
+		display: flex;
+		justify-content: space-around;
 
-	form {
-		width: 100%
-	}
-
-	p {
-		margin: 0;
-	}
-
-	.contact-form, .contact-details  {
-		@media #{$desktop} {
-			-webkit-flex: 1;
-			flex: 1;
+		> div {
+			width: 50%;
+			padding: 0 40px 0 0;
 		}
-		margin: 0 30px;
-	}
-
-	.contact-details {
-		font-size: .9em;
 	}
 }

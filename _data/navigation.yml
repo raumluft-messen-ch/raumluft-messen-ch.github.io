@@ -7,6 +7,6 @@
   new_window: false
   highlight: false
 - name: Kontakt & Bestellen
-  link: /kontakt/
+  link: /kontakt-bestellen/
   new_window: false
   highlight: true

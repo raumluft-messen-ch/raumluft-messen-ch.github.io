@@ -5,7 +5,7 @@
 		display: block;
 	}
 
-	@media #{$mid-point} {
+	@media (min-width: 750px) {
 		border: 0;
 		padding: 0 20px;
 
@@ -20,7 +20,7 @@ nav {
 	font-size: .8em;
 	width: 100%;
 
-	@media #{$mid-point} {
+	@media (min-width: 750px) {
 		text-align: right;
 		position: absolute;
 		top: 13px;
@@ -37,7 +37,7 @@ nav {
 		transition: .2s ease-in-out;
 		display: none;
 
-		@media #{$mid-point} {
+		@media (min-width: 750px) {
 			display: inline;
 			padding: 10px;
 		}
@@ -47,11 +47,11 @@ nav {
 			display: inline;
 			position: absolute;
 			right: 10px;
-			top: -22px;
+			top: -18px;
 			font-size: 1.9em;
 			border: 0;
 
-			@media #{$mid-point} {
+			@media (min-width: 750px) {
 				display: none;
 			}
 
@@ -67,15 +67,13 @@ nav {
 		color: #fff;
 	}
 
-	@media #{$mid-point} {
-		a.highlight {
-			border: 1px #ccc solid;
-			border-radius: 5px;
+	a.highlight {
+		border: 1px #ccc solid;
+		border-radius: 5px;
 
-			&:hover {
-				background: #fff;
-				color: $brand-color;
-			}
+		&:hover {
+			background: #fff;
+			color: $brand-color;
 		}
 	}
 

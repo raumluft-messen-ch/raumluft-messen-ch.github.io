@@ -8,7 +8,7 @@ google_analytics_key:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /images/pilatus-tools-logo.png
-description:
+description: CO2-Display mit grossem Display, einfachen Anzeigen, Ampelfunktion, abschaltbarer Signalton
 author:
   name:
   email:
