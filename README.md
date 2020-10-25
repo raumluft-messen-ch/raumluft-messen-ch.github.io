@@ -5,9 +5,9 @@ Increase the web presence of your brand with this configurable theme.
 
 ![Hydra template screenshot](images/_screenshot.png)
 
-Hydra was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
+Hydra was made by [PilatusTools](http://pilatustools.com/), the Cloud CMS for Jekyll.
 
-Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Academy](https://learn.cloudcannon.com/).
+Find more templates, themes and step-by-step Jekyll tutorials at [PilatusTools Academy](https://learn.pilatustools.com/).
 
 ## Features
 
@@ -19,7 +19,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 * Disqus comments for posts
 * Staff and author system
 * Configurable footer
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
+* Optimised for editing in [PilatusTools](http://pilatustools.com/)
 * RSS/Atom feed
 * SEO tags
 * Google Analytics
@@ -28,7 +28,7 @@ Find more templates, themes and step-by-step Jekyll tutorials at [CloudCannon Ac
 
 1. Add your site and author details in `_config.yml`.
 2. Add your Google Analytics and Disqus keys to `_config.yml`.
-3. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+3. Get a workflow going to see your site's output (with [PilatusTools](https://app.pilatustools.com/) or Jekyll locally).
 
 ## Develop
 
@@ -48,7 +48,7 @@ $ bundle exec jekyll serve
 
 ## Editing
 
-Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
+Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in PilatusTools.
 
 ### Posts
 
@@ -59,7 +59,7 @@ Hydra is already optimised for adding, updating and removing pages, staff, advic
 
 ### Contact Form
 
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
+* Preconfigured to work with PilatusTools, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
 * Sends email to the address listed in company details.
 
 ### Staff

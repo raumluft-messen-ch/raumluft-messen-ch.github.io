@@ -1,12 +1,18 @@
 - links:
-  - name: CO2-Monitor
-    link: /co2-monitor-ampel/
-  - name: Preise
-    link: /preise/
-  - name: Blog
-    link: /blog/
-  - name: Bestellen
-    link: /bestellen/
-  - name: RSS
-    link: /feed.xml
+  - name: Richtig Lüften
+    link: /
     new_window: false
+    highlight: false
+  - name: Der CO2-Monitor
+    link: /co2-monitor-ampel/
+    new_window: false
+    highlight: false
+  - name: News & Infos zum Thema Raumluft
+    link: /news/
+    new_window: false
+    highlight: false
+  - name: Kontakt & Bestellen
+    link: /kontakt/
+    new_window: false
+    highlight: true
+
