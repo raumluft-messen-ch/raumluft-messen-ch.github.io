@@ -47,7 +47,7 @@ h3 {
 
 }
 
-p, address, li {
+p, address, li, th, td {
 	font-size: 1.38em;
 	color: #333;
 	margin-bottom: 20px;
@@ -60,6 +60,9 @@ li {
 	line-height: 1em;
 }
 
+th {
+	font-weight: bold;
+}
 blockquote strong {
 	font-weight: 400;
 }

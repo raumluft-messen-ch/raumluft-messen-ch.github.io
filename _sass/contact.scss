@@ -4,6 +4,16 @@
 	height: 400px;
 }
 
+.statusbox {
+	border: 1px solid #7a7a7a;
+	padding: 20px;
+
+	.available {
+		color: green;
+	}
+
+}
+
 .contact-box {
 	@media (min-width: 750px) {
 		display: flex;
